@@ -1,0 +1,4 @@
+/home/cyanbird/study/warwick/year2/CS241OS_Network/lab/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cyanbird/study/warwick/year2/CS241OS_Network/lab/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cyanbird/study/warwick/year2/CS241OS_Network/lab/lab1/cmake-build-debug/CMakeFiles/dePrime.dir
+/home/cyanbird/study/warwick/year2/CS241OS_Network/lab/lab1/cmake-build-debug/CMakeFiles/lab1.dir

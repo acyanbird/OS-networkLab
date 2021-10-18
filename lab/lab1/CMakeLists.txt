@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.20)
+project(lab1 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(lab1 main.c dePrime.c)
+
+add_executable(dePrime dePrime.c)
+
+target_link_libraries(dePrime.c m)

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cyanbird/study/warwick/year2/CS241OS_Network/lab/lab1/dePrime.c
+stdio.h
+/home/cyanbird/study/warwick/year2/CS241OS_Network/lab/lab1/stdio.h
+math.h
+/home/cyanbird/study/warwick/year2/CS241OS_Network/lab/lab1/math.h
+
