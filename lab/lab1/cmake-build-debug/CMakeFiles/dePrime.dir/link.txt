@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/dePrime.dir/dePrime.c.o -o dePrime 

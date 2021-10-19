@@ -1,8 +1,8 @@
-/home/cyanbird/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/cyanbird/study/warwick/year2/CS241OS_Network/lab/lab1
+/home/lucia/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/lucia/warwick/OS-networkLab/lab/lab1
 CMake Error at CMakeLists.txt:10 (target_link_libraries):
   Cannot specify link libraries for target "dePrime.c" which is not built by
   this project.
 
 
 -- Configuring incomplete, errors occurred!
-See also "/home/cyanbird/study/warwick/year2/CS241OS_Network/lab/lab1/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/lucia/warwick/OS-networkLab/lab/lab1/cmake-build-debug/CMakeFiles/CMakeOutput.log".
