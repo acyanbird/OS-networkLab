@@ -20,9 +20,9 @@ int main(){
     printf("Input a integer:");
     scanf("%d", &num); // it will report err cuz directly convert char, careful
     if (isPrime(num)){
-        printf("Integer %d is prime number.", num);
+        printf("Integer %d is prime number.\n", num);
     } else{
-        printf("Integer %d is not prime number.", num);
+        printf("Integer %d is not prime number.\n", num);
     }
 }
 

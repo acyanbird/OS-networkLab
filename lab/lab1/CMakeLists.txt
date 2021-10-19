@@ -3,7 +3,7 @@ project(lab1 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(lab1 main.c dePrime.c)
+add_executable(lab1 main.c dePrime.c swap.c sort.c alloc.c)
 
 add_executable(dePrime dePrime.c)
 
