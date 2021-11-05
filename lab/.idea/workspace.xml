@@ -10,8 +10,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29fced4d-19b9-4570-ae82-30256be67491" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/lab2/debug2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/lab1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/lab2/copy_d.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/copy_stream.c" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/copy_stream.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/copys" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/copys" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/t1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/t1.txt" afterDir="false" />
+>>>>>>> 63ac4de1097f7db3b402a3ec98ce0072e79653fc
+>>>>>>> 2dc6cb43f1702e29cae3046331c8311bebdcab11
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +52,8 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+=======
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -51,6 +65,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+>>>>>>> 63ac4de1097f7db3b402a3ec98ce0072e79653fc
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,16 +77,25 @@
       <updated>1634586324456</updated>
       <workItem from="1634586330957" duration="7000" />
       <workItem from="1634586442678" duration="68000" />
+<<<<<<< HEAD
+      <workItem from="1635463489048" duration="1000" />
+=======
       <workItem from="1635250918888" duration="6540000" />
+<<<<<<< HEAD
       <workItem from="1635514205591" duration="8585000" />
       <workItem from="1635859176314" duration="4770000" />
       <workItem from="1636056330619" duration="1223000" />
+=======
+>>>>>>> 63ac4de1097f7db3b402a3ec98ce0072e79653fc
+>>>>>>> 2dc6cb43f1702e29cae3046331c8311bebdcab11
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -84,4 +108,5 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+>>>>>>> 63ac4de1097f7db3b402a3ec98ce0072e79653fc
 </project>
